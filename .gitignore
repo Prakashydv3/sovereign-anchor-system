@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.out
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Node data
+node-data/
+data/
+chaindata/
+
+# Temp / build artifacts
+tmp/
+temp/
+build/
+dist/
+*.log
+*.tmp
+*.bak
+
+# Go
+vendor/
+go.sum
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
